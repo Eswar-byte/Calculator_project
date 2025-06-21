@@ -1,2 +1,2 @@
-# Calculator_project
+# sde_projects
 Calculator
